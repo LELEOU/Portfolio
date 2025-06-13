@@ -1,4 +1,4 @@
-/* Variáveis removidas porque não há alternância de tema */
+/* Estilos gerais */
 * {
   margin: 0;
   padding: 0;
@@ -9,7 +9,7 @@
 body {
   font-family: 'Segoe UI', sans-serif;
   color: #f5f5f5;
-  background-image: url("background.jpg"); /* substitua pelo nome da sua imagem */
+  background-image: url("background.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
