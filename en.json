@@ -1,0 +1,42 @@
+{
+  "sobre": "About Me",
+  "sobreTexto1": "Hello! My name is Leonardo de Vasconcelos Gonçalves, I'm 21 years old and a Software Engineering student at UniRitter (expected graduation in 2026). Technology has always been a passion for me, especially developing systems and custom bots. Since 2019, I've been improving my programming skills and, since 2021, I've worked as a freelancer on the Workana platform, focusing on creating digital solutions for various clients.",
+  "sobreTexto2": "I'm a committed, punctual person, flexible with schedules and passionate about challenges. I believe in constant learning and enjoy exploring new areas of technology. I also have hands-on experience with game development in Unity, APIs, and Discord bots.",
+  
+  "projetos": "Projects",
+  "projeto1": "Discord Bot (collaborative project)",
+  "projeto1desc": "Development of a bot with multiple features using Python APIs. Team project focused on communication and problem-solving.",
+
+  "projeto2": "Unity Game",
+  "projeto2desc": "Project developed with a colleague to practice game development in C#, working with logic, design, and simple mechanics.",
+
+  "habilidades": "Technical Skills",
+  "habilidadesSociais": "Social Skills",
+  "habilidadesLinguagens": "Languages:",
+  "habilidadesFerramentas": "Frameworks and Tools:",
+  "habilidadesOutros": "Others:",
+
+  "sociaisComunicacao": "Communication:",
+  "sociaisEquipe": "Teamwork:",
+  "sociaisProblemas": "Problem Solving:",
+
+  "contato": "Contact",
+  "contatoEmail": "Email:",
+  "contatoTelefone": "Phone:",
+  "contatoLocalizacao": "Location:",
+  "contatoLinkedin": "LinkedIn:",
+  "contatoGithub": "GitHub:",
+
+  "habilidadesLinguagensDesc": "Python, Java, C#, HTML5, CSS3, JavaScript, SQL, MySQL",
+  "habilidadesFerramentasDesc": "React (basic), TypeScript (basic), Unity, Power BI (basic), Excel, Word, PowerPoint",
+  "habilidadesOutrosDesc": "API creation, bot development",
+
+  "sociaisComunicacaoDesc": "Ability to convey ideas clearly and objectively.",
+  "sociaisEquipeDesc": "Experience collaborating with different professional profiles.",
+  "sociaisProblemasDesc": "Ability to analyze situations and find effective solutions.",
+
+  "navSobre": "About",
+  "navProjetos": "Projects",
+  "navHabilidades": "Skills",
+  "navContato": "Contact"
+}
